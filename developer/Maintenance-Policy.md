@@ -58,7 +58,7 @@ The following CAS releases will transition into a security-patch mode (SPM) only
 
 | Release |  SPM Starting Date  |            Full EOL |
 |---------|:-------------------:|--------------------:|
-| `6.6.x` | December 31st, 2023 |     June 31st, 2024 |
+| `6.6.x` | December 31st, 2023 |     June 30st, 2024 |
 | `6.5.x` | September 2nd, 2022 | December 31st, 2023 |
 
 All previous releases absent in the above table are considered EOLed.
